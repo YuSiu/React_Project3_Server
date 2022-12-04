@@ -6,7 +6,8 @@ const allowedOrigins = [
     'https://longing-head-production.up.railway.app/Login',
     'https://longing-head-production.up.railway.app',
     'https://reactproject3client-production.up.railway.app/',
-    'https://reactproject3client-production.up.railway.app/Article',
+    'https://reactproject3client-production.up.railway.app/Article/',
+    'https://reactproject3client-production.up.railway.app/Article2/',
 ];
 
 module.exports = allowedOrigins;
