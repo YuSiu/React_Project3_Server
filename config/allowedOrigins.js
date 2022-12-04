@@ -8,6 +8,14 @@ const allowedOrigins = [
     'https://reactproject3client-production.up.railway.app/',
     'https://reactproject3client-production.up.railway.app/Article/',
     'https://reactproject3client-production.up.railway.app/Article2/',
+    'https://reactproject3client-production.up.railway.app/Article/1',
+    'https://reactproject3client-production.up.railway.app/Article/2',
+    'https://reactproject3client-production.up.railway.app/Article/3',
+    'https://reactproject3client-production.up.railway.app/Article/4',
+    'https://reactproject3client-production.up.railway.app/Article2/1',
+    'https://reactproject3client-production.up.railway.app/Article2/2',
+    'https://reactproject3client-production.up.railway.app/Article2/3',
+    'https://reactproject3client-production.up.railway.app/Article2/4',
 ];
 
 module.exports = allowedOrigins;
